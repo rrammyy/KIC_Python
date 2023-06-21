@@ -1,2 +1,2 @@
 print('Hello Python', end='|')
-print("Hello Python")
+print("Hello Python")  
